@@ -1,14 +1,9 @@
 # lesson-3
 
-## Title h2
-
-[Google](https://google.com)
-
-- one
-- two
+## Home work#3
 
 ```
 <!doctype html>
 ```
 
-lorem
+
